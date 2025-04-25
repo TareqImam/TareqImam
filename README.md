@@ -24,7 +24,10 @@ I'm passionate about solving complex problems, optimizing system efficiency, and
 - **Other Skills:** Authentication systems, workflow automation, API integrations, system performance tuning
 
 ## 📊 GitHub Stats
-![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqImam&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqImam&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TareqImam&show_icons=true&theme=radical" alt="Tareq's GitHub Stats" width="47%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareqImam&layout=compact&theme=radical" alt="Top Languages" width="36%" />
+</div>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-imam/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tareqimam800@gmail.com)
