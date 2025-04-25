@@ -24,10 +24,15 @@ I'm passionate about solving complex problems, optimizing system efficiency, and
 - **Other Skills:** Authentication systems, workflow automation, API integrations, system performance tuning
 
 ## 📊 GitHub Stats
-![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqImam&show_icons=true&theme=radical) • ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqImam&layout=compact&theme=radical)
+![Tareq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TareqImam&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TareqImam&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-imam/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tareqimam800@gmail.com)
+
+
+### Listening  
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nk3v2gjb2xndjhjezzoyfwefpi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nk3v2gjb2xndjhjezzoyfwefpi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true)]]
+<br />
 
 ---
 
