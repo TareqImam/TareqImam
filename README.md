@@ -30,9 +30,9 @@ I'm passionate about solving complex problems, optimizing system efficiency, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-imam/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tareqimam800@gmail.com)
 
 
-### Listening  
+<!-- ### Listening  
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nk3v2gjb2xndjhjezzoyfwefpi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31nk3v2gjb2xndjhjezzoyfwefpi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true)]]
-<br />
+<br /> -->
 
 ---
 
