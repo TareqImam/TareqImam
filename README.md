@@ -36,10 +36,10 @@ Git · GitHub · Docker · Linux · CI/CD
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TareqImam&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareqImam&layout=compact&theme=transparent" alt="Most Used Languages" width="41%" />
-</div>
+</div> -->
 
 ### 🤝 Connect With Me
 
